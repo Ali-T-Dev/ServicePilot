@@ -1,0 +1,1 @@
+import{_ as e}from"./TicketsComponent-abF5buZ4.js";import{c as a,o,d as r}from"./index-BxtXjqqc.js";const n={__name:"massageAdminPage",setup(s){return(t,c)=>(o(),a("div",null,[r(e)]))}};export{n as default};
